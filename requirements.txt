@@ -1,0 +1,2 @@
+# Python dependencies for egyptian-sentiment
+# Add packages here as the notebooks and src start using them.

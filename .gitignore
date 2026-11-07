@@ -1,0 +1,12 @@
+# Data stays local
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
